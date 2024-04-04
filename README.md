@@ -1,2 +1,2 @@
-UofT Student \
-Machine Learning and Data Science Specialist \
+University of Toronto Student 
+Machine Learning and Data Science Specialist
